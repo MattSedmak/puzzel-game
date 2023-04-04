@@ -42,7 +42,7 @@ export const moveTile = (
         tilesCopy[startIndex],
       ];
     } else {
-      //move multiple tiles
+      //move multiple tiles??
     }
   }
 
